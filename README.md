@@ -1,6 +1,6 @@
 # Algoritmos - Cambiar Una Llanta
 
-##Objetivo 
+## Objetivo 
 Definir la serie de pasos para cambiar la Llanta de un automóvil
 
 ## 1. Crear un archivo llamado cambiarLlanta.md
