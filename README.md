@@ -13,10 +13,10 @@ Enumerar los pasos
 ## 2. Realizar el commit.
 
 ## Referencias
-[commonmark.org] (https://commonmark.org/help/)
+[commonmark.org](https://commonmark.org/help/)
 
-[makereadme.com] (https://www.makeareadme.com/)
+[makereadme.com](https://www.makeareadme.com/)
 
-[github.com] (https://github.com/navendu-pottekkat/awesome-readme/blob/master/README-template.md)
+[github.com](https://github.com/navendu-pottekkat/awesome-readme/blob/master/README-template.md)
 
 
